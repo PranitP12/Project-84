@@ -1,0 +1,22 @@
+[
+    {
+        "caption": "caption1",
+        "description": "You never know what you have until you have cleaned your house" ,
+        "author": "Atharva Gupta"
+    },
+    {
+        "caption": "caption2",
+        "description": "My bed is a magical place I suddenly remember everything I had to do" ,
+        "author": "Shouraya Singh"
+    },
+    {
+        "caption": "caption3",
+        "author": "Aviral Gupta",
+        "description": "Going to bed early. Not going to a party. Not leaving my house. My childhood punishments has become my adult goals"
+    },
+    {
+        "caption": "caption4",
+        "author": "Daksh Chavan",
+        "description": "If there would be an award for being lazy, I would send someone to pick it up for me"
+    }
+]
